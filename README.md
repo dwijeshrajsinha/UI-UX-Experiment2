@@ -16,7 +16,7 @@ c. Develop interaction behaviors and usability principles for the designs. Inter
 
 d. Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts. Designed in Canva, it uses a black background for drama and exclusivity, with gold glitter effects for the figure and text. The scripty, elegant typeface and circular laurel crown reinforce notions of luxury, celebration, and exclusivity, echoing upper-tier branding conventions. The logo is vector-friendly, scalable for both web headers and mobile app bars, and maintains strong figure-ground contrast for visual clarity.
 ```
-<img width="679" height="673" alt="image" src="https://github.com/user-attachments/assets/ec944e2f-dbd4-488b-8c53-15b3385ba050" />
+
 
 ## Result:
 Designing a Basic Mobile and Web Layout for an Existing Case Study is successfully completed
