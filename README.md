@@ -1,5 +1,6 @@
 # UI-UX-Experiment2
-
+## NAME: DWIEJSH RAJ SINHA Y
+## REGISTER NO: 212225240038
 ## Aim:
 UI/UX Design for Mobile and Web: Applying Gestalt Principles, UI Patterns, and Usability Guidelines
 ## Algorithm:
@@ -17,6 +18,7 @@ c. Develop interaction behaviors and usability principles for the designs. Inter
 d. Create a brand logo using Canva, following styling and branding guidelines and include it with your layouts. Designed in Canva, it uses a black background for drama and exclusivity, with gold glitter effects for the figure and text. The scripty, elegant typeface and circular laurel crown reinforce notions of luxury, celebration, and exclusivity, echoing upper-tier branding conventions. The logo is vector-friendly, scalable for both web headers and mobile app bars, and maintains strong figure-ground contrast for visual clarity.
 ```
 
+<img width="404" height="462" alt="image" src="https://github.com/user-attachments/assets/c603cc1b-faec-41d2-ada8-dd8e6558e000" />
 
 ## Result:
 Designing a Basic Mobile and Web Layout for an Existing Case Study is successfully completed
