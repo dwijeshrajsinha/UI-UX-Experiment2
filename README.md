@@ -26,7 +26,7 @@ UI/UX Design for Mobile and Web: Applying Gestalt Principles, UI Patterns, and U
 
 ## Output:
 
-<img width="404" height="462" alt="image" src="https://github.com/user-attachments/assets/c603cc1b-faec-41d2-ada8-dd8e6558e000" />
+<img width="1315" height="1196" alt="image" src="https://github.com/user-attachments/assets/30872f0f-776b-47a6-a4d8-40b575009210" />
 
 ## Result:
 The Ajio mobile application UI was successfully designed in Figma with two screens—Home, and Categories. The screens were connected using interactive prototype navigation, providing a simple and user-friendly shopping experience.
